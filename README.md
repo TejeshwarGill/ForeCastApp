@@ -30,14 +30,14 @@ I used [Openweathermap](https://openweathermap.org/) to get weather data.
 
 ## What could be done with more time - New Features
 
-Current weather data
-Access current weather data for any location including over 200,000 cities
-6 day forecast is available at any location or city
-16 day forecast includes daily weather
-City historical weather data for 37,000+ cities
+Current weather data.
+Access current weather data for any location including over 200,000 cities.
+6 day forecast is available at any location or city.
+16 day forecast includes daily weather.
+City historical weather data for 37,000+ cities.
 Simple syntax to create triggers which will be working upon the occurrence of specified weather conditions (temperature, humidity, pressure, etc.) in a certain period of time.
-Current UV index (Clear Sky) and historical data are available for any geo location (lat/lon)
+Current UV index (Clear Sky) and historical data are available for any geo location (lat/lon).
 Current and historical (since November 2015) data on air pollution with main indexes of CO, O3, NO2 and SO2.
-Air pollution: ways to forecast and calculate it
+Air pollution: ways to forecast and calculate it.
 
 Contact: tejesh.gill@gmail.com
